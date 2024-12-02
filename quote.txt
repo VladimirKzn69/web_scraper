@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html  lang='ru'>
+ <head>
+  <meta  name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta  name="description" content="ПРОВЕРЕННЫЙ БИЗНЕС">
+  <meta  name="robots" content="index">
+  <meta  charset='utf-8'>
+  <title>
+ПРОВЕРЕННЫЙ БИЗНЕС
+  </title>
+  <link  rel="icon" href="/img/res/logo-32x32.png" sizes="32x32">
+  <link  rel="icon" href="/img/res/logo-192x192.png" sizes="192x192">
+  <link  rel="apple-touch-icon" href="/img/res/logo-180x180.png">
+  <link  rel=stylesheet type=text/css href='/css/style.css?v=0.1.169'>
+  <script  type=module src='/js/bundle.js?v=0.1.169'>
+  </script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(92539101, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/92539101" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+ </head>
+ <body>
+  <div id='id-stage' class='b-stage b-index-stage'>
+   <div id='id-controls' class='b-controls'>
+    <div id='id-controls-cont' class='b-cont'>
+     <div id='id-title' class='b-title'>
+      <div id='id-menu-section' class='e-menu-button'>
+       <div id='id-menu-button'  aria-label=Menu>
+        <span>
+        </span>
+       </div>
+      </div>
+      <div class='e-logo'>
+       <a  href='/'>
+       </a>
+      </div>
+      <div id='id-caption' class='e-caption'>
+       <a  href='/'>
+ПРОВЕРЕННЫЙ <br> БИЗНЕС
+       </a>
+      </div>
+     </div>
+     <div id='id-menu-bar' class='b-menu'>
+      <div id='id-service-button' class='e-menu-item'>
+       <span class='e-service'>
+Сервисы
+       </span>
+      </div>
+      <div id='id-menu-knd' class='e-menu-item'>
+       <a  href='/knd/tile' data-ref=/knd/brk/tile>
+Органы контроля
+       </a>
+      </div>
+      <div id='id-menu-checklist' class='e-menu-item'>
+       <a  href='/lvl/knd/tile' data-ref='/chk /knd/chk/tile /chk/tile'>
+Чек-листы
+       </a>
+      </div>
+      <div id='id-dash-button' class='e-menu-item'>
+       <span class='e-dash'>
+Аналитика
+       </span>
+      </div>
+     </div>
+     <div id='id-profile-section' class='e-profile'>
+      <a class='e-global-search'  href='/search' title='Поиск по сайту'>
+       <img alt=''  src='/img/res/search.png'>
+      </a>
+      <div id='id-profile-button' class='e-menu-item'>
+Войти
+      </div>
+      <div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id='id-doc' class='b-home-doc'>
+    <div class='e-block1'>
+     <div class='e-sub'>
+      <div class='e-left1'>
+       <div class='e-caption'>
+«Проверенный бизнес»
+       </div>
+       <div class='e-text'>
+Бесплатная цифровая платформа полезных знаний и сервисов в сфере контрольно-надзорной деятельности для предпринимателей Республики Татарстан
+       </div>
+      </div>
+      <div class='e-right1'>
+       <img alt=''  src='/img/res/about.png'>
+      </div>
+     </div>
+    </div>
+    <div class='e-block4'>
+     <a class='e-sub'  href='/lvl/knd/tile'>
+      <div class='e-img1'>
+      </div>
+      <div class='e-text'>
+Проверьте свою деятельность путем прохождения чек-листов по выбранным направлениям
+      </div>
+     </a>
+     <a class='e-sub'  href='/dash?id=1'>
+      <div class='e-img2'>
+      </div>
+      <div class='e-text'>
+Ознакомьтесь со сводной информацией по проверкам и профилактическим мероприятиям РТ
+      </div>
+     </a>
+     <a class='e-sub'  href='/interview'>
+      <div class='e-img3'>
+      </div>
+      <div class='e-text'>
+Если у вас была проверка, пройдите опрос предпринимателей по итогам взаимодействия с надзорными органами
+      </div>
+     </a>
+    </div>
+    <div class='e-block4'>
+     <a class='e-sub'  href='/nvl/tile'>
+      <div class='e-img4'>
+      </div>
+      <div class='e-text'>
+В новостном блоке и календаре предстоящих событий собирается информация о мероприятиях и событиях связанных с деятельностью надзорных органов
+      </div>
+     </a>
+     <a class='e-sub'  href='/qa/tile'>
+      <div class='e-img5'>
+      </div>
+      <div class='e-text'>
+Воспользуйтесь базой знаний по широкому спектру вопросов контрольно-надзорной деятельности
+      </div>
+     </a>
+     <a class='e-sub'  href='/orv/tile'>
+      <div class='e-img6'>
+      </div>
+      <div class='e-text'>
+Участвуйте в оценке регулирущего воздействия, обсуждая нормативные акты, влияющие на бизнес
+      </div>
+     </a>
+    </div>
+    <div class='e-block2b'>
+     <div class='e-sub'>
+      <div class='e-caption'>
+Контрольные и профилактические мероприятия
+      </div>
+      <a class='e-text'  href='https://lk.gosuslugi.ru/org-profile/knd/inspect' target=_blank>
+Узнайте о завершённых, текущих и будущих проверках и профмероприятиях
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id='id-footer' class='b-footer'>
+    <div class='e-block'>
+     <div class='e-sub'>
+      <a class='e-img1'  href='https://knd.gosuslugi.ru/'>
+      </a>
+      <a class='e-text'  href='https://knd.gosuslugi.ru/'>
+Жалоба на нарушения моратория на проверки или решения контрольных органов
+      </a>
+     </div>
+     <div class='e-sub'>
+      <a class='e-img2'  href='https://ombudsmanbiz.tatarstan.ru/internet_reception.htm'>
+      </a>
+      <a class='e-text'  href='https://ombudsmanbiz.tatarstan.ru/internet_reception.htm'>
+Интернет-приёмная Уполномоченного при Главе (Раисе) Республики Татарстан по защите прав предпринимателей
+      </a>
+     </div>
+     <div class='e-sub'>
+      <a class='e-img3'  href='https://epp.genproc.gov.ru/web/gprf/internet-reception'>
+      </a>
+      <a class='e-text'  href='https://epp.genproc.gov.ru/web/gprf/internet-reception'>
+Интернет-приёмная Генеральной прокуратуры РФ
+      </a>
+     </div>
+    </div>
+    <div id='id-footer-cont' class='e-cont'>
+Copyright © 2023-2024
+    </div>
+   </div>
+   <div id='id-menu-menu' class='e-drop m-d-n'>
+    <ul id='id-menu-cont' class='e-cont'>
+     <li class='e-item'>
+      <a  href='/nvl/tile'>
+Новости
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/brk/tile'>
+Справочник нарушений
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/qa/tile'>
+Вопрос-ответ
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/orv/tile'>
+ОРВ
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/interview'>
+Опрос
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/about'>
+О проекте
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/service'>
+Внешние сервисы
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/knd/tile'>
+Органы контроля
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/lvl/knd/tile'>
+Чек-листы
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/dash?id=1'>
+Показатели по контрольной деятельности
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/dash?id=2'>
+Материалы сайта по КНД
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/dash?id=3'>
+Требования
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div id='id-service-menu' class='e-drop m-d-n'>
+    <ul id='id-service-cont' class='e-cont'>
+     <li class='e-item'>
+      <a  href='/nvl/tile'>
+Новости
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/brk/tile'>
+Справочник нарушений
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/qa/tile'>
+Вопрос-ответ
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/orv/tile'>
+ОРВ
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/interview'>
+Опрос
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/about'>
+О проекте
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/service'>
+Внешние сервисы
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div id='id-dash-menu' class='e-drop m-d-n'>
+    <ul id='id-dash-cont' class='e-cont'>
+     <li class='e-item'>
+      <a  href='/dash?id=1'>
+Показатели по контрольной деятельности
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/dash?id=2'>
+Материалы сайта по КНД
+      </a>
+     </li>
+     <li class='e-item'>
+      <a  href='/dash?id=3'>
+Требования
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div id='id-profile-menu' class='e-drop m-d-n'>
+    <ul id='id-profile-cont' class='e-cont'>
+     <li class='e-item'>
+      <a  href='/usr'>
+Профиль
+      </a>
+     </li>
+     <li id='id-profile-logout' class='e-item'>
+      <span>
+Выход
+      </span>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </body>
+</html>
