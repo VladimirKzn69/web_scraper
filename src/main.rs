@@ -23,7 +23,8 @@ fn main() -> std::io::Result<()> {
     // Получаем HTML-содержимое из ответа и выводим его
     let html_content = response.text().expect("Не удалось получить текст");
     // println!("{}", html_content);
-    
+    // Записываем полученное содержимое в файл 
+    fs::write("quote.txt", &html_content)?;
     // Создаем регулярное выражение для поиска ссылок, начинающихся на https://
     let re = Regex::new(r"https://[^\s]+").expect("Не удалось создать регулярное выражение");
     
@@ -40,6 +41,7 @@ fn main() -> std::io::Result<()> {
     for link in &links {
         println!("{}", link);
     }
+    // Записываем полученные ссылки в файл
     let links_content = links.join("\n");
     fs::write("links.txt", links_content)?;
     
