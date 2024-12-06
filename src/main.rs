@@ -37,9 +37,11 @@ fn main() -> std::io::Result<()> {
     
     // Выводим найденные ссылки на экран
     println!("Найденные ссылки:");
-    for link in links {
+    for link in &links {
         println!("{}", link);
     }
+    let links_content = links.join("\n");
+    fs::write("links.txt", links_content)?;
     
     Ok(())
 }
